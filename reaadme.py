@@ -12,4 +12,8 @@ this is the thirth modify.
 this is a new line .
 
 Create a new branch dev.
-Create a new branch feature2.
+<<<<<<< HEAD
+Create a new branch feature1.
+=======
+Create a new branch feature1.
+>>>>>>> feature1
