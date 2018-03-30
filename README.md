@@ -1,2 +1,2 @@
-# LearnGit
+# Learn Python
 # README 
